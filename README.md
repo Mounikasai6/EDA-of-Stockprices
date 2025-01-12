@@ -1,4 +1,4 @@
-# Financial Data Visualization Project
+# EDA Stock Prices Data Visualization Project
 
 ## Overview
 This project demonstrates various visualization techniques using historical financial market data. The visualizations are created using Python's popular data visualization libraries including Matplotlib, Seaborn.
