@@ -1,7 +1,7 @@
 # Financial Data Visualization Project
 
 ## Overview
-This project demonstrates various visualization techniques using historical financial market data. The visualizations are created using Python's popular data visualization libraries including Matplotlib, Seaborn, and Plotly.
+This project demonstrates various visualization techniques using historical financial market data. The visualizations are created using Python's popular data visualization libraries including Matplotlib, Seaborn.
 
 ## Features
 - Multiple visualization types:
@@ -21,10 +21,8 @@ This project demonstrates various visualization techniques using historical fina
 python
 matplotlib
 seaborn
-plotly
 pandas
 numpy
-
 
 ## Installation
 bash
@@ -35,9 +33,11 @@ git clone https://github.com/Mounikasai6/EDA-of-Stockprices.git
 python
 # Import required libraries
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
-import plotly.express as px
+
 
 # Load the data
 data = pd.read_csv('your_file.csv')
