@@ -45,8 +45,11 @@ data = pd.read_csv('your_file.csv')
 # Create visualizations
 # Example: Line Plot
 plt.figure(figsize=(12, 6))
+
 plt.plot(data['Date'], data['Close'])
+
 plt.title('Stock Price Over Time')
+
 plt.show()
 
 
