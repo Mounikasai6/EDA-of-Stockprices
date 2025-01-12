@@ -20,7 +20,7 @@ pandas
 numpy
 Installation
 # Clone the repository
-git clone https://github.com/Arjun-Menon2110/Visualization.git
+
 
 # Navigate to project directory
 cd financial-visualization
@@ -90,4 +90,4 @@ Data source: Kaggle
 Python data visualization community
 Contributors and maintainers of Matplotlib, Seaborn, and Plotly
 Contact
-Project Link: https://github.com/Arjun-Menon2110/Visualization
+Project Link: 
