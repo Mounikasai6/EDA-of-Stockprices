@@ -29,7 +29,7 @@ numpy
 ## Installation
 bash
 # Clone the repository
-git clone https://github.com/Arjun-Menon2110/Visualization.git
+git clone https://github.com/Mounikasai6/EDA-of-Stockprices.git
 
 # Navigate to project directory
 cd financial-visualization
@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Contributors and maintainers of Matplotlib, Seaborn, and Plotly
 
 ## Contact
-Project Link: https://github.com/Arjun-Menon2110/Visualization 
+Project Link: https://github.com/Mounikasai6/EDA-of-Stockprices
